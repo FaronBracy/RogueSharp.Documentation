@@ -1,2 +1,6 @@
-- name: Introduction
-  href: intro.md
+- name: RogueSharp V3 Tutorial
+  items:
+  - name: Introduction
+    href: 01_introduction.md
+  - name: Creating the Project
+    href: 02_creating_the_project.md

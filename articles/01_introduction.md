@@ -6,9 +6,9 @@ Since the pre-release of RogueSharp V3 I have been working on a complete tutoria
 
 ## Questions and Answers
 
-**Question:** You never finished the previous MonoGame + RogueSharp tutorials you were working on. How do you expect this one will be different?
+**Question:** You never finished the previous [MonoGame + RogueSharp](https://roguesharp.wordpress.com/2014/05/18/tutorial-1-roguelike-map-generation-using-roguesharp-and-monogame/ "Using RogueSharp with MonoGame") tutorials you were working on. How do you expect this one will be different?
 
-**Short Answer:** The complete tutorial project is already finished and the source code is available on BitBucket. All that is left to do is for me to clean up the commits and write about it in a series of blog posts. I’m confident that I can accomplish that during the upcoming weeks.
+**Short Answer:** The complete tutorial project is already finished and the source code is available on [Github](https://github.com/FaronBracy/RogueSharpRLNetSamples "Complete tutorial code"). All that is left to do is for me to clean up the commits and write about it in a series of blog posts.
 
 **Long Answer:** The history of RogueSharp is that it was a library originally created for myself for a personal project I was making using MonoGame (XNA then) and C#. At the time I couldn’t find a similar native library for handling path-finding, field-of-view, etc. so I created one myself. I decided that it would be beneficial to share it with the community especially since the inspiration came from so many other open projects like libtcod. This blog was a bit of an afterthought. I wanted people to use the library so I opened up visual studio and started writing a sample project without any planning or forethought. The intent was really just to give examples of RogueSharp features and how to use them. I didn’t have a well thought out plan for making a complete sample game.
 
@@ -52,6 +52,6 @@ I’m looking forward to writing more about this tutorial project. I have the ne
 
 * Roguelike Dev SubReddit – <https://www.reddit.com/r/roguelikedev>
 
-Also, don’t forget about the upcoming seven day roguelike for 2016. If you are interested in C# I’d love for you to try out RougeSharp this year and give me any feedback you have. If you aren’t interested in C# there are lots of other great libraries and languages out there. Whether you pick an existing one or roll your own I think you’ll have a lot of fun.
+Also, don’t forget about the upcoming seven day roguelike. If you are interested in C# I’d love for you to try out RougeSharp this year and give me any feedback you have. If you aren’t interested in C# there are lots of other great libraries and languages out there. Whether you pick an existing one or roll your own I think you’ll have a lot of fun.
 
-* 7DRL 2016 – <http://7drl.org/2016/01/13/7drl-2016-announced-for-5-13-march/>
+* 7DRL 2019 – <https://itch.io/jam/7drl-challenge-2019>
