@@ -30,7 +30,7 @@ Do this for both `Color.cs` and `Swatch.cs` and your project should look somethi
 
 ## Swatch Class
 
-RLNET lets you define colors with the **RLColor** constructor taking the RGB values of the color as parameters as in `RLColor myColor = new RLColor( red, green, blue );`
+RLNET lets you define colors with the `RLColor` constructor taking the RGB values of the color as parameters as in `RLColor myColor = new RLColor( red, green, blue );`
 
 In the Swatch class we’ll define friendly names for each of the colors from the palettes that we choose so that we don’t have to recall those RGB values.
 
@@ -95,7 +95,7 @@ namespace RogueSharpV3Tutorial.Core
 
 ## Colors Class
 
-Why do we have two classes for colors? What is the difference between the **Swatch** class and the **Colors** class? I thought that the **Swatch** would make sense to just define the possible colors that we have to work with. Then when we define the color of something specific to our game’s domain like the Player’s symbol we can put that definition in the **Colors** class.  It might be that both the Player’s ‘@’ symbol and the text for the inventory both use a color from the swatch such as `Swatch.DbLight`.
+Why do we have two classes for colors? What is the difference between the `Swatch` class and the `Colors` class? I thought that the `Swatch` would make sense to just define the possible colors that we have to work with. Then when we define the color of something specific to our game’s domain like the Player’s symbol we can put that definition in the `Colors` class.  It might be that both the Player’s ‘@’ symbol and the text for the inventory both use a color from the swatch such as `Swatch.DbLight`.
 
 A nice benefit of keeping all of our Colors together is that if we want to change colors in the future we can come to this one place to change them and don’t have to dig all over in code to find colors spread throughout. We could also load different colors if we wanted a special colorblind mode.
 

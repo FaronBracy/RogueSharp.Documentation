@@ -37,9 +37,9 @@ Once the file is in your project directory, you should be able to **Right Click*
 
 ## The Code
 
-A console application always includes a file called **Program.cs** which has a single **Main()** function which serves as the entry point.
+A console application always includes a file called `Program.cs` which has a single `Main()` function which serves as the entry point.
 
-Rename **Program.cs** to **Game.cs**
+Rename `Program.cs` to `Game.cs`
 
 Now we’re going to add a bit of code to render a RLRootConsole with the text “It worked!” just to prove that we hooked up the NuGet packages correctly. I won’t go into a lot of detail here but if you want more depth check out these other tutorials.
 

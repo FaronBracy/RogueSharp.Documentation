@@ -89,7 +89,7 @@ private static void OnRootConsoleUpdate( object sender, UpdateEventArgs e )
 
 ## Blit and Render
 
-The final step we’ll need to take is to update **OnRootConsoleRender()** to Blit each of our consoles to the root console in the correct positions. The RLNET method we will use is RLConsole.Blit which takes several parameters.
+The final step we’ll need to take is to update `OnRootConsoleRender()` to Blit each of our consoles to the root console in the correct positions. The RLNET method we will use is RLConsole.Blit which takes several parameters.
 
 A source console
 
