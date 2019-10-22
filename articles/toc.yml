@@ -8,3 +8,7 @@
     href: 03_multiple_consoles.md
   - name: Color Palette
     href: 04_color_palette.md
+  - name: Simple Map Drawing
+    href: 05_simple_map_drawing.md
+  - name: Player
+    href: 06_player.md
