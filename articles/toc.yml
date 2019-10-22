@@ -12,3 +12,5 @@
     href: 05_simple_map_drawing.md
   - name: Player
     href: 06_player.md
+  - name: Player Input
+    href: 07_player_input.md
