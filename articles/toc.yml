@@ -14,3 +14,5 @@
     href: 06_player.md
   - name: Player Input
     href: 07_player_input.md
+  - name: Simple Room Generation
+    href: 08_simple_room_generation.md
