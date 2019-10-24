@@ -15,4 +15,6 @@
   - name: Player Input
     href: 07_player_input.md
   - name: Simple Room Generation
-    href: 08_simple_room_generation.md
+    href: 08_simple_room_generation.md  
+  - name: Connecting Rooms with Hallways
+    href: 09_connecting_rooms_with_hallways.md
