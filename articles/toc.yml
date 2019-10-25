@@ -22,3 +22,5 @@
     href: 10_message_log.md
   - name: Player Stats
     href: 11_player_stats.md
+  - name: Monster Generation
+    href: 12_monster_generation.md
