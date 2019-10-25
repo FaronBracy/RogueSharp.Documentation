@@ -1,20 +1,17 @@
 # Introduction
 
-Since the pre-release of RogueSharp V3 I have been working on a complete tutorial for creating a Roguelike game in C#. Along with the announcement of V3 being fully released I would also like to announce the start of a new tutorial series.
+The links to the left will walk you through creating a rougelike game using version 3 of the RougeSharp library.
 
 ![alt text](/images/V3Tutorial/01_tutorialgame.png "Running tutorial game")
 
-## Questions and Answers
+## Complete Code
 
-**Question:** You never finished the previous [MonoGame + RogueSharp](https://roguesharp.wordpress.com/2014/05/18/tutorial-1-roguelike-map-generation-using-roguesharp-and-monogame/ "Using RogueSharp with MonoGame") tutorials you were working on. How do you expect this one will be different?
+The complete tutorial project is already finished and the source code is available on Github:
 
-**Short Answer:** The complete tutorial project is already finished and the source code is available on [Github](https://github.com/FaronBracy/RogueSharpRLNetSamples "Complete tutorial code"). All that is left to do is for me to clean up the commits and write about it in a series of blog posts.
-
-**Long Answer:** The history of RogueSharp is that it was a library originally created for myself for a personal project I was making using MonoGame (XNA then) and C#. At the time I couldn’t find a similar native library for handling path-finding, field-of-view, etc. so I created one myself. I decided that it would be beneficial to share it with the community especially since the inspiration came from so many other open projects like libtcod. This blog was a bit of an afterthought. I wanted people to use the library so I opened up visual studio and started writing a sample project without any planning or forethought. The intent was really just to give examples of RogueSharp features and how to use them. I didn’t have a well thought out plan for making a complete sample game.
-
-**Question:** Why did you choose to use RLNet this time instead of MonoGame?
-
-**Answer:** MonoGame is a great library. I choose RLNet this time because of simplicity. I feel that with the simple ASCII graphics I can focus more on the general design and code and less on the graphics, animation, cameras and all the other bits that go along with MonoGame. Also, I feel like there are already a lot of tutorials available for XNA / MonoGame.
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>
 
 ## Goals
 
@@ -48,7 +45,7 @@ The RogueSharp V3 Tutorial project was created with the following goals in mind:
   * Distribution of loot and monsters based on level depth
   * Map features such as rooms, hallways, doors and stairs that can be interacted with by both the player and monsters
 
-I’m looking forward to writing more about this tutorial project. I have the next 4 posts already started. In the meantime there is a great community you can visit to learn more about Rougelike development.
+## Additional Resources
 
 * Roguelike Dev SubReddit – <https://www.reddit.com/r/roguelikedev>
 
