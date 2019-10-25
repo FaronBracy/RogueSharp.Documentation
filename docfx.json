@@ -49,11 +49,19 @@
         ]
       }
     ],
+    "globalMetadata": {
+      "_appTitle": "RogueSharp",
+      "_appName": "RogueSharp",
+      "_appLogoPath": "images/logo.svg",
+      "_appFaviconPath": "images/favicon.ico",
+      "_appFooter": "<a class=\"text-white\" href=\"https://github.com/FaronBracy/RogueSharp\">RogueSharp &copy; 2014-2020 Faron Bracy</a>"
+    },
     "dest": "_site",
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "docstrap/tmpl"
     ],
     "postProcessors": [],
     "markdownEngineName": "markdig",
