@@ -18,3 +18,5 @@
     href: 08_simple_room_generation.md  
   - name: Connecting Rooms with Hallways
     href: 09_connecting_rooms_with_hallways.md
+  - name: Message Log
+    href: 10_message_log.md
