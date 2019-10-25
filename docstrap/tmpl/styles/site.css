@@ -201,6 +201,10 @@ article.content .source-link {
     text-decoration: none;
 }
 
+.contribution .nav {
+    display: block;
+}
+
 .navbar .fa-external-link-alt {
     vertical-align: top;
 }
