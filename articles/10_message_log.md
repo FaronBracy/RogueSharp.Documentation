@@ -2,7 +2,7 @@
 
 During this tutorial we’ll create a new `MessageLog` class that will allow us to add messages and draw them to a console. We’ll then add a bunch of messages to the log to prove that it works
 
-![alt text](../images/V3Tutorial/10_messagelog.png "A console with a running app and log")
+![Message log console](../images/V3Tutorial/10_messagelog.png "A console with a running app and log")
 
 ## Designing the Message Log Class
 

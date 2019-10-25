@@ -20,3 +20,5 @@
     href: 09_connecting_rooms_with_hallways.md
   - name: Message Log
     href: 10_message_log.md
+  - name: Player Stats
+    href: 11_player_stats.md
