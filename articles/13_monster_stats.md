@@ -2,7 +2,7 @@
 
 During this tutorial we’ll show the monster health bars in the right hand stats panel, but only when they are in line-of-sight to the player.
 
-![alt text](../images/V3Tutorial/13_monsterstats.png "A console with monster stats rendered")
+![Console with monster stats](../images/V3Tutorial/13_monsterstats.png "A console with monster stats rendered")
 
 ## Adding a DrawStats() Method to Monster
 
