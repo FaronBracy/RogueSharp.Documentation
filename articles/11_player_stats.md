@@ -204,8 +204,15 @@ if ( _renderRequired )
 
 If you run the program now you should get something similar to the screenshot at the top of this post.
 
-As always the code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/09PlayerStats>
+## Code on GitHub
 
-Bored waiting for the next tutorial? The completed project is already available on Github.
-<https://github.com/FaronBracy/RogueSharpRLNetSamples>
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/09PlayerStats>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

@@ -181,8 +181,15 @@ public DungeonMap CreateMap()
 
 If you run the game now you should have some ‘k’ shaped kobolds on your map. They won’t do anything interesting just sit there and act like walls. We will give them some interesting behaviors later on.
 
-As always the code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/10MonsterGeneration>
+## Code on GitHub
 
-Bored waiting for the next tutorial? The completed project is already available on Github.
-<https://github.com/FaronBracy/RogueSharpRLNetSamples>
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/10MonsterGeneration>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

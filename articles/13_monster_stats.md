@@ -97,8 +97,15 @@ private static void OnRootConsoleRender( object sender, UpdateEventArgs e )
 
 If you run the game now you should see the monster health bars as you find them around the map. We still can’t interact with the monsters but we will be able to soon.
 
-As always the code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/11MonsterStats>
+## Code on GitHub
 
-Bored waiting for the next tutorial? The completed project is already available on Github.
-<https://github.com/FaronBracy/RogueSharpRLNetSamples>
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/11MonsterStats>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

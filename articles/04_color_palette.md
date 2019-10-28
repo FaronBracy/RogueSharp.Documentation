@@ -155,8 +155,18 @@ If you run the game you should now see something like this:
 
 This should look very familiar. That was quite a bit of work for only slightly different colors, but we’ll be using these colors for the rest of our game.
 
-Here is the complete code so far on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/02ChooseColors>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/02ChooseColors>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>
 
 ## Closing Thoughts
 

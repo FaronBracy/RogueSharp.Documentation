@@ -171,5 +171,15 @@ If all went well when you start your game you should see this:
 
 ![alt text](../images/V3Tutorial/06_mapwithplayer.png "Game console showing map, player and field-of-view.")
 
-The code after all of the changes so far can be found here:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/04PlayerActor>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/04PlayerActor>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

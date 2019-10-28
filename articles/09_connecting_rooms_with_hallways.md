@@ -125,5 +125,15 @@ Run the game. If everything went well you should get an image that looks like th
 
 *Note: If your rooms are showing up before you move to explore them make sure to set the IsExplored flag to false in the `CreateRoom()` method*
 
-The code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/07ConnectingRooms>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/07ConnectingRooms>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

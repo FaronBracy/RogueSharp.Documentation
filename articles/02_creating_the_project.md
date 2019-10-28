@@ -96,5 +96,15 @@ If you run your project now you should see something like this:
 
 ![alt text](../images/V3Tutorial/02_rootconsolerender.png "Console window It Worked")
 
-Here is the link to the final code on Github:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/00HookupNuget>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/00HookupNuget>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

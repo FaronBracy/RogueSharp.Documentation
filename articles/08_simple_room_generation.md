@@ -165,5 +165,15 @@ OutsideOfRoomBug
 
 We’ll fix this issue in the next tutorial post where we’ll also get all of our rooms connected. If you are bored waiting for the next tutorial you should try and see if you can come up with a fix for this and also start experimenting with ways to connect the rooms.
 
-The code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/06Rooms>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/06Rooms>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

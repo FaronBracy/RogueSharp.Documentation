@@ -154,5 +154,15 @@ If everything worked when you run the game you should now see the map console ha
 
 ![alt text](../images/V3Tutorial/05_simplemapdrawing.png "rendered map")
 
-If it didn’t work, don’t worry. The complete code so far can be found here:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/03BasicMap>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/03BasicMap>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>

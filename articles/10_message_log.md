@@ -102,12 +102,19 @@ if ( didPlayerAct )
 }
 ```
 
-The code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/08MessageLog>
+## Code on GitHub
+
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/08MessageLog>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>
 
 ## Closing Thoughts
 
 I’ve been spending a bunch of time messing with [RexPaint](http://www.gridsagegames.com/rexpaint/). It’s a fantastic ASCII art editor and can be used to design maps. I highly recommend you take a look at it.
-
-Bored waiting for the next tutorial? The completed project is already available on Github.
-<https://github.com/FaronBracy/RogueSharpRLNetSamples>

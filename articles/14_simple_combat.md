@@ -183,14 +183,21 @@ If the dice expressions seem a little tricky here you can find the API documenta
 
 Run the program now and you should be able to move around the map and bump into monsters to damage them.
 
+## Code on GitHub
+
 As always the code for the tutorial series so far can be found on GitHub:
-<https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/12SimpleCombat>
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/12SimpleCombat>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>
 
 ## Closing Thoughts
 
 When you are going through the code examples here, please don’t feel like you have to type them in letter for letter. For example in this tutorial try changing the messages that get added to the log to make them more interesting. Create additional stats for actors and make up your own more exciting combat system. Rename and reorganize anything and everything you want so that it makes sense to you.
 
 The code presented in this tutorial series is far from perfect. I am finding lots of issues that bug me every time I go back to write one of these posts. The point is that the examples I provide here are just one way of doing things. Get some ideas here and then visit other blogs and read other tutorials to collect more ideas. Eventually you’ll settle upon what works best for you and your own unique style.
-
-Bored waiting for the next tutorial? The completed project is already available on Github.
-<https://github.com/FaronBracy/RogueSharpRLNetSamples>

@@ -118,8 +118,19 @@ private static void OnRootConsoleRender( object sender, UpdateEventArgs e )
 
 And that’s it! If you run the program now you should see output similar to the screenshot at the beginning of this post.
 
-Complete code for this post – <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/01SetupConsoles>
+## Code on GitHub
 
-### Closing thoughts
+As always the code for the tutorial series so far can be found on GitHub:
+
+* <https://github.com/FaronBracy/RogueSharpV3Tutorial/tree/01SetupConsoles>
+
+Bored waiting for the next tutorial? The complete tutorial project is already finished and the source code is available on Github:
+
+* Sample Roguelike game using RogueSharp and RLNet console
+  * <https://github.com/FaronBracy/RogueSharpRLNetSamples>
+* Sample Roguelike game using RogueSharp and SadConsole
+  * <https://github.com/FaronBracy/RogueSharpSadConsoleSamples>
+
+## Closing thoughts
 
 So far we haven’t used RogueSharp at all. I think it is necessary to do some of these basic setup tasks to pave the way for the future. Don’t worry though we’ll be getting into RogueSharp functionality shortly.
