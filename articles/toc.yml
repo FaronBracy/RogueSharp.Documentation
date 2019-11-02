@@ -15,7 +15,7 @@
   - name: Player Input
     href: 07_player_input.md
   - name: Simple Room Generation
-    href: 08_simple_room_generation.md  
+    href: 08_simple_room_generation.md
   - name: Connecting Rooms with Hallways
     href: 09_connecting_rooms_with_hallways.md
   - name: Message Log
@@ -29,4 +29,6 @@
   - name: Simple Combat
     href: 14_simple_combat.md
   - name: Scheduling System
-    href: 15_scheduling_system.md    
+    href: 15_scheduling_system.md
+  - name: Monster Beahaviors
+    href: 16_monster_behaviors.md
