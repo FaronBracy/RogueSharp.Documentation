@@ -2,7 +2,7 @@
 
 The links to the left will walk you through creating a rougelike game using version 3 of the RougeSharp library.
 
-![alt text](/images/V3Tutorial/01_tutorialgame.png "Running tutorial game")
+![Running tutorial game](../images/V3Tutorial/01_tutorialgame.png "Running tutorial game")
 
 ## Complete Code
 
