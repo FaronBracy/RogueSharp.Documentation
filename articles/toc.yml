@@ -33,4 +33,6 @@
   - name: Monster Beahaviors
     href: 16_monster_behaviors.md
   - name: Doors
-    href: 17_doors.md    
+    href: 17_doors.md
+  - name: Stairs
+    href: 18_stairs.md    
